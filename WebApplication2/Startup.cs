@@ -16,6 +16,7 @@ namespace WebApplication2
     public class Startup
     {
         //ajdiashsdiashsdagbgduiahdhuahdkasdajksdhwaiudbajkd
+        //agsdasdf   adfafaf
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
